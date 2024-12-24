@@ -2,9 +2,9 @@ extends CharacterBody3D
 
 @onready var head: Node3D = $Head
 
-var current_speed = 20
+var current_speed = 5
 
-@export var walking_speed = 50.0
+@export var walking_speed = 8.0
 @export var running_speed = 20.0
 @export var crouching_speed = 3.0
 
