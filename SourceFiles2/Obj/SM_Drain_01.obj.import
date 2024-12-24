@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bvq7dquo0bfeb"
+path="res://.godot/imported/SM_Drain_01.obj-7196340c00e347dfc63361ff79159f82.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Drain_01.obj-7196340c00e347dfc63361ff79159f82.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Drain_01.obj"
+dest_files=["res://.godot/imported/SM_Drain_01.obj-7196340c00e347dfc63361ff79159f82.mesh", "res://.godot/imported/SM_Drain_01.obj-7196340c00e347dfc63361ff79159f82.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

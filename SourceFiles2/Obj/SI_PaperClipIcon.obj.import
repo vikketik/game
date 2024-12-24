@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bm5326ngfw4yo"
+path="res://.godot/imported/SI_PaperClipIcon.obj-64c68a334fb31fa734209fb0df33fe6c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_PaperClipIcon.obj-64c68a334fb31fa734209fb0df33fe6c.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_PaperClipIcon.obj"
+dest_files=["res://.godot/imported/SI_PaperClipIcon.obj-64c68a334fb31fa734209fb0df33fe6c.mesh", "res://.godot/imported/SI_PaperClipIcon.obj-64c68a334fb31fa734209fb0df33fe6c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

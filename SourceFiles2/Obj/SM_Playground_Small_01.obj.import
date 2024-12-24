@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cw2yr3al7b6yx"
+path="res://.godot/imported/SM_Playground_Small_01.obj-24ffeb301dedca09f1de3c8e8aab01b5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Playground_Small_01.obj-24ffeb301dedca09f1de3c8e8aab01b5.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Playground_Small_01.obj"
+dest_files=["res://.godot/imported/SM_Playground_Small_01.obj-24ffeb301dedca09f1de3c8e8aab01b5.mesh", "res://.godot/imported/SM_Playground_Small_01.obj-24ffeb301dedca09f1de3c8e8aab01b5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

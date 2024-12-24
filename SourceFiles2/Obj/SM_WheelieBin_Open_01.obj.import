@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d0mxcxnadjbm1"
+path="res://.godot/imported/SM_WheelieBin_Open_01.obj-9ced9e9b1d831b9b04db4371580d055d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_WheelieBin_Open_01.obj-9ced9e9b1d831b9b04db4371580d055d.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_WheelieBin_Open_01.obj"
+dest_files=["res://.godot/imported/SM_WheelieBin_Open_01.obj-9ced9e9b1d831b9b04db4371580d055d.mesh", "res://.godot/imported/SM_WheelieBin_Open_01.obj-9ced9e9b1d831b9b04db4371580d055d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dok6r4e4espbd"
+path="res://.godot/imported/SI_CameraIcon.obj-983985347c86816edba883b651ac4d22.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_CameraIcon.obj-983985347c86816edba883b651ac4d22.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_CameraIcon.obj"
+dest_files=["res://.godot/imported/SI_CameraIcon.obj-983985347c86816edba883b651ac4d22.mesh", "res://.godot/imported/SI_CameraIcon.obj-983985347c86816edba883b651ac4d22.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

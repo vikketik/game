@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://krosfttaflry"
+path="res://.godot/imported/Items_BriefCase_03.obj-0fc4f0a93b95a70780416d70d7536ca5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_BriefCase_03.obj-0fc4f0a93b95a70780416d70d7536ca5.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_BriefCase_03.obj"
+dest_files=["res://.godot/imported/Items_BriefCase_03.obj-0fc4f0a93b95a70780416d70d7536ca5.mesh", "res://.godot/imported/Items_BriefCase_03.obj-0fc4f0a93b95a70780416d70d7536ca5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

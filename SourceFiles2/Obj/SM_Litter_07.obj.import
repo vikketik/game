@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0b3wr14cdqsf"
+path="res://.godot/imported/SM_Litter_07.obj-c07e5b05fd364d75366fc821940eb70d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Litter_07.obj-c07e5b05fd364d75366fc821940eb70d.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Litter_07.obj"
+dest_files=["res://.godot/imported/SM_Litter_07.obj-c07e5b05fd364d75366fc821940eb70d.mesh", "res://.godot/imported/SM_Litter_07.obj-c07e5b05fd364d75366fc821940eb70d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

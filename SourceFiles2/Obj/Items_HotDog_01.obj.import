@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmahggq8ou755"
+path="res://.godot/imported/Items_HotDog_01.obj-dc65aa4af768466dad03be419ecbea1e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_HotDog_01.obj-dc65aa4af768466dad03be419ecbea1e.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_HotDog_01.obj"
+dest_files=["res://.godot/imported/Items_HotDog_01.obj-dc65aa4af768466dad03be419ecbea1e.mesh", "res://.godot/imported/Items_HotDog_01.obj-dc65aa4af768466dad03be419ecbea1e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyqeafya6tv6t"
+path="res://.godot/imported/SM_PowerBox_05.obj-2d60ed8961ea493e6f48bb09f846154e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_PowerBox_05.obj-2d60ed8961ea493e6f48bb09f846154e.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_PowerBox_05.obj"
+dest_files=["res://.godot/imported/SM_PowerBox_05.obj-2d60ed8961ea493e6f48bb09f846154e.mesh", "res://.godot/imported/SM_PowerBox_05.obj-2d60ed8961ea493e6f48bb09f846154e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

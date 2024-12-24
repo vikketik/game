@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chpteq2t0s2bd"
+path="res://.godot/imported/Items_WaterBottle_02.obj-53430982eaf2a50642a0f8bec4d49818.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_WaterBottle_02.obj-53430982eaf2a50642a0f8bec4d49818.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_WaterBottle_02.obj"
+dest_files=["res://.godot/imported/Items_WaterBottle_02.obj-53430982eaf2a50642a0f8bec4d49818.mesh", "res://.godot/imported/Items_WaterBottle_02.obj-53430982eaf2a50642a0f8bec4d49818.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

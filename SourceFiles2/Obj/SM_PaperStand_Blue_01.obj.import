@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2cnsbf3h14tj"
+path="res://.godot/imported/SM_PaperStand_Blue_01.obj-38aa748a4726185109dbe86beefeefd6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_PaperStand_Blue_01.obj-38aa748a4726185109dbe86beefeefd6.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_PaperStand_Blue_01.obj"
+dest_files=["res://.godot/imported/SM_PaperStand_Blue_01.obj-38aa748a4726185109dbe86beefeefd6.mesh", "res://.godot/imported/SM_PaperStand_Blue_01.obj-38aa748a4726185109dbe86beefeefd6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

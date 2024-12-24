@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bcmviw7howg61"
+path="res://.godot/imported/SI_MusicIcon.obj-0fdb01506157b7e875d9476955b6b452.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_MusicIcon.obj-0fdb01506157b7e875d9476955b6b452.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_MusicIcon.obj"
+dest_files=["res://.godot/imported/SI_MusicIcon.obj-0fdb01506157b7e875d9476955b6b452.mesh", "res://.godot/imported/SI_MusicIcon.obj-0fdb01506157b7e875d9476955b6b452.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

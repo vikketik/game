@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://jja2lgrqwvsx"
+path="res://.godot/imported/SM_TreeCage_01.obj-c427daec5b7bde67b0eb6df05ade732a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_TreeCage_01.obj-c427daec5b7bde67b0eb6df05ade732a.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_TreeCage_01.obj"
+dest_files=["res://.godot/imported/SM_TreeCage_01.obj-c427daec5b7bde67b0eb6df05ade732a.mesh", "res://.godot/imported/SM_TreeCage_01.obj-c427daec5b7bde67b0eb6df05ade732a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

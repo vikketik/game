@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2v8wgplp30tp"
+path="res://.godot/imported/SI_PhoneIcon.obj-03d3789aa4626bdf772711e8f40e025c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_PhoneIcon.obj-03d3789aa4626bdf772711e8f40e025c.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_PhoneIcon.obj"
+dest_files=["res://.godot/imported/SI_PhoneIcon.obj-03d3789aa4626bdf772711e8f40e025c.mesh", "res://.godot/imported/SI_PhoneIcon.obj-03d3789aa4626bdf772711e8f40e025c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

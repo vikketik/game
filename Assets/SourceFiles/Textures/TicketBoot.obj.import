@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dk2qqts7if11m"
+path="res://.godot/imported/TicketBoot.obj-5cf1448f47570541d1292a4457239904.mesh"
+
+[deps]
+
+files=["res://.godot/imported/TicketBoot.obj-5cf1448f47570541d1292a4457239904.mesh"]
+
+source_file="res://Assets/SourceFiles/Textures/TicketBoot.obj"
+dest_files=["res://.godot/imported/TicketBoot.obj-5cf1448f47570541d1292a4457239904.mesh", "res://.godot/imported/TicketBoot.obj-5cf1448f47570541d1292a4457239904.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

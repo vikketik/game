@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cd5h0lm472yd0"
+path="res://.godot/imported/SI_LocatorIcon.obj-5605420ff0b13100bc2d8c4c147da336.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_LocatorIcon.obj-5605420ff0b13100bc2d8c4c147da336.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_LocatorIcon.obj"
+dest_files=["res://.godot/imported/SI_LocatorIcon.obj-5605420ff0b13100bc2d8c4c147da336.mesh", "res://.godot/imported/SI_LocatorIcon.obj-5605420ff0b13100bc2d8c4c147da336.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

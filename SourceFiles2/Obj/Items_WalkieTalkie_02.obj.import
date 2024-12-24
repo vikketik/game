@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bcf3mswjdmif8"
+path="res://.godot/imported/Items_WalkieTalkie_02.obj-8ce9bd81e3305f2dd5a849433a4cb8e9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_WalkieTalkie_02.obj-8ce9bd81e3305f2dd5a849433a4cb8e9.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_WalkieTalkie_02.obj"
+dest_files=["res://.godot/imported/Items_WalkieTalkie_02.obj-8ce9bd81e3305f2dd5a849433a4cb8e9.mesh", "res://.godot/imported/Items_WalkieTalkie_02.obj-8ce9bd81e3305f2dd5a849433a4cb8e9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

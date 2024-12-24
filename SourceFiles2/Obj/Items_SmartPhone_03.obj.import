@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d603dngbbjs0"
+path="res://.godot/imported/Items_SmartPhone_03.obj-b9dfe00f5674e165c73a7809186ca10a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_SmartPhone_03.obj-b9dfe00f5674e165c73a7809186ca10a.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_SmartPhone_03.obj"
+dest_files=["res://.godot/imported/Items_SmartPhone_03.obj-b9dfe00f5674e165c73a7809186ca10a.mesh", "res://.godot/imported/Items_SmartPhone_03.obj-b9dfe00f5674e165c73a7809186ca10a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

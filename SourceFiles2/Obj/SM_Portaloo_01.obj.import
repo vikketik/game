@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bwh524vcg30no"
+path="res://.godot/imported/SM_Portaloo_01.obj-7425f742692de57c6a21829ef5088055.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Portaloo_01.obj-7425f742692de57c6a21829ef5088055.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Portaloo_01.obj"
+dest_files=["res://.godot/imported/SM_Portaloo_01.obj-7425f742692de57c6a21829ef5088055.mesh", "res://.godot/imported/SM_Portaloo_01.obj-7425f742692de57c6a21829ef5088055.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

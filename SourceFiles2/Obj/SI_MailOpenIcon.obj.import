@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://rbwgm5jfs6hd"
+path="res://.godot/imported/SI_MailOpenIcon.obj-51791b7d981fbcea056be082a9da0139.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_MailOpenIcon.obj-51791b7d981fbcea056be082a9da0139.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_MailOpenIcon.obj"
+dest_files=["res://.godot/imported/SI_MailOpenIcon.obj-51791b7d981fbcea056be082a9da0139.mesh", "res://.godot/imported/SI_MailOpenIcon.obj-51791b7d981fbcea056be082a9da0139.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

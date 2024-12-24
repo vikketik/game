@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cm0s6y1gdgy8r"
+path="res://.godot/imported/SI_Letter_O.obj-11e7aff51b31ca4b93f31a282367360c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_Letter_O.obj-11e7aff51b31ca4b93f31a282367360c.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_Letter_O.obj"
+dest_files=["res://.godot/imported/SI_Letter_O.obj-11e7aff51b31ca4b93f31a282367360c.mesh", "res://.godot/imported/SI_Letter_O.obj-11e7aff51b31ca4b93f31a282367360c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

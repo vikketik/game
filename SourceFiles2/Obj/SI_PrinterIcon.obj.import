@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cagw4cjvrwyew"
+path="res://.godot/imported/SI_PrinterIcon.obj-26d39d2c911009f6ec181a15eb8b23b1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_PrinterIcon.obj-26d39d2c911009f6ec181a15eb8b23b1.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_PrinterIcon.obj"
+dest_files=["res://.godot/imported/SI_PrinterIcon.obj-26d39d2c911009f6ec181a15eb8b23b1.mesh", "res://.godot/imported/SI_PrinterIcon.obj-26d39d2c911009f6ec181a15eb8b23b1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

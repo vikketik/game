@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuihvtvagh65s"
+path="res://.godot/imported/SM_Sign_HotFood_01.obj-689b0a884db7b1d81cb80cb3445b69bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Sign_HotFood_01.obj-689b0a884db7b1d81cb80cb3445b69bb.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Sign_HotFood_01.obj"
+dest_files=["res://.godot/imported/SM_Sign_HotFood_01.obj-689b0a884db7b1d81cb80cb3445b69bb.mesh", "res://.godot/imported/SM_Sign_HotFood_01.obj-689b0a884db7b1d81cb80cb3445b69bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

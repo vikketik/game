@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmkauo1sgf7ww"
+path="res://.godot/imported/SI_PageIcon.obj-22c551e63100e5ab2558218e0535dd83.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_PageIcon.obj-22c551e63100e5ab2558218e0535dd83.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_PageIcon.obj"
+dest_files=["res://.godot/imported/SI_PageIcon.obj-22c551e63100e5ab2558218e0535dd83.mesh", "res://.godot/imported/SI_PageIcon.obj-22c551e63100e5ab2558218e0535dd83.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b5c67xlh20rov"
+path="res://.godot/imported/Items_Handbag_04.obj-1edecfec0df22d4df0d6af1e85768775.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_Handbag_04.obj-1edecfec0df22d4df0d6af1e85768775.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_Handbag_04.obj"
+dest_files=["res://.godot/imported/Items_Handbag_04.obj-1edecfec0df22d4df0d6af1e85768775.mesh", "res://.godot/imported/Items_Handbag_04.obj-1edecfec0df22d4df0d6af1e85768775.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

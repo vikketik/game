@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpfw4251kletu"
+path="res://.godot/imported/SM_ParkPlanter_Round_01.obj-1761871cf97664b2fcef4bcca86e1165.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_ParkPlanter_Round_01.obj-1761871cf97664b2fcef4bcca86e1165.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_ParkPlanter_Round_01.obj"
+dest_files=["res://.godot/imported/SM_ParkPlanter_Round_01.obj-1761871cf97664b2fcef4bcca86e1165.mesh", "res://.godot/imported/SM_ParkPlanter_Round_01.obj-1761871cf97664b2fcef4bcca86e1165.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

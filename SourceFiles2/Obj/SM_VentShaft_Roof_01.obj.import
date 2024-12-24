@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ddtyq7dot0sbp"
+path="res://.godot/imported/SM_VentShaft_Roof_01.obj-de8438700c221fadb7ab98409e6a7c19.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_VentShaft_Roof_01.obj-de8438700c221fadb7ab98409e6a7c19.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_VentShaft_Roof_01.obj"
+dest_files=["res://.godot/imported/SM_VentShaft_Roof_01.obj-de8438700c221fadb7ab98409e6a7c19.mesh", "res://.godot/imported/SM_VentShaft_Roof_01.obj-de8438700c221fadb7ab98409e6a7c19.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

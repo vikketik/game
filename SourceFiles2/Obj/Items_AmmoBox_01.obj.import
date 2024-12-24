@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://njqw7m5danv1"
+path="res://.godot/imported/Items_AmmoBox_01.obj-0ca9f2f900c11092ae6a9e28d4a5d101.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_AmmoBox_01.obj-0ca9f2f900c11092ae6a9e28d4a5d101.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_AmmoBox_01.obj"
+dest_files=["res://.godot/imported/Items_AmmoBox_01.obj-0ca9f2f900c11092ae6a9e28d4a5d101.mesh", "res://.godot/imported/Items_AmmoBox_01.obj-0ca9f2f900c11092ae6a9e28d4a5d101.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cp3k2tt4nrvvx"
+path="res://.godot/imported/SM_ParkBin_Metal_01.obj-86b1180a1b16bc300497382d1a9877fa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_ParkBin_Metal_01.obj-86b1180a1b16bc300497382d1a9877fa.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_ParkBin_Metal_01.obj"
+dest_files=["res://.godot/imported/SM_ParkBin_Metal_01.obj-86b1180a1b16bc300497382d1a9877fa.mesh", "res://.godot/imported/SM_ParkBin_Metal_01.obj-86b1180a1b16bc300497382d1a9877fa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

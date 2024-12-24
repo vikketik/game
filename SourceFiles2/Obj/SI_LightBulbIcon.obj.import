@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c821wgqotx4hp"
+path="res://.godot/imported/SI_LightBulbIcon.obj-d302b23c4adf594dbdaac6a6f68b5c09.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_LightBulbIcon.obj-d302b23c4adf594dbdaac6a6f68b5c09.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_LightBulbIcon.obj"
+dest_files=["res://.godot/imported/SI_LightBulbIcon.obj-d302b23c4adf594dbdaac6a6f68b5c09.mesh", "res://.godot/imported/SI_LightBulbIcon.obj-d302b23c4adf594dbdaac6a6f68b5c09.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

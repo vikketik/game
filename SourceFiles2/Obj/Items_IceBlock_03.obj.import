@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfqidrg2yhh05"
+path="res://.godot/imported/Items_IceBlock_03.obj-9b615fe8d494a2bcc415825c9064f939.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_IceBlock_03.obj-9b615fe8d494a2bcc415825c9064f939.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_IceBlock_03.obj"
+dest_files=["res://.godot/imported/Items_IceBlock_03.obj-9b615fe8d494a2bcc415825c9064f939.mesh", "res://.godot/imported/Items_IceBlock_03.obj-9b615fe8d494a2bcc415825c9064f939.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

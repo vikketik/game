@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmjv1p1t5kwox"
+path="res://.godot/imported/SI_PauseIcon.obj-4677034c4dabc305cd9cf1f96c45f178.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_PauseIcon.obj-4677034c4dabc305cd9cf1f96c45f178.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_PauseIcon.obj"
+dest_files=["res://.godot/imported/SI_PauseIcon.obj-4677034c4dabc305cd9cf1f96c45f178.mesh", "res://.godot/imported/SI_PauseIcon.obj-4677034c4dabc305cd9cf1f96c45f178.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

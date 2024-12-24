@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d0ar3x6uwapla"
+path="res://.godot/imported/Items_FryPan_01.obj-698c36207058f0a32a7a9dc1d468690d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_FryPan_01.obj-698c36207058f0a32a7a9dc1d468690d.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_FryPan_01.obj"
+dest_files=["res://.godot/imported/Items_FryPan_01.obj-698c36207058f0a32a7a9dc1d468690d.mesh", "res://.godot/imported/Items_FryPan_01.obj-698c36207058f0a32a7a9dc1d468690d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

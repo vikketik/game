@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ohbx1r7modhe"
+path="res://.godot/imported/SC_Prop_Roof_WaterTower.obj-60a9a1c01a59e4dfd93f8da732e4878c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SC_Prop_Roof_WaterTower.obj-60a9a1c01a59e4dfd93f8da732e4878c.mesh"]
+
+source_file="res://Assets/SourceFiles/Obj/SC_Prop_Roof_WaterTower.obj"
+dest_files=["res://.godot/imported/SC_Prop_Roof_WaterTower.obj-60a9a1c01a59e4dfd93f8da732e4878c.mesh", "res://.godot/imported/SC_Prop_Roof_WaterTower.obj-60a9a1c01a59e4dfd93f8da732e4878c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

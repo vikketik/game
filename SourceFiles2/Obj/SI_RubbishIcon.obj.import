@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bj7kijfygrdpk"
+path="res://.godot/imported/SI_RubbishIcon.obj-810c000fa4e120d9e264ecf8ed18b38d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_RubbishIcon.obj-810c000fa4e120d9e264ecf8ed18b38d.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_RubbishIcon.obj"
+dest_files=["res://.godot/imported/SI_RubbishIcon.obj-810c000fa4e120d9e264ecf8ed18b38d.mesh", "res://.godot/imported/SI_RubbishIcon.obj-810c000fa4e120d9e264ecf8ed18b38d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

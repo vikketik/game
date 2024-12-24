@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bd8ens0om1rwx"
+path="res://.godot/imported/Items_ChainSaw_02.obj-5252b465751bf09f4e6bbcee80a3576b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_ChainSaw_02.obj-5252b465751bf09f4e6bbcee80a3576b.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_ChainSaw_02.obj"
+dest_files=["res://.godot/imported/Items_ChainSaw_02.obj-5252b465751bf09f4e6bbcee80a3576b.mesh", "res://.godot/imported/Items_ChainSaw_02.obj-5252b465751bf09f4e6bbcee80a3576b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

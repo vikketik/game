@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://38y6wyu0hq1x"
+path="res://.godot/imported/SM_SignFolding_04.obj-d2f53d404c95bbea0f82e4ca4fcfebea.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_SignFolding_04.obj-d2f53d404c95bbea0f82e4ca4fcfebea.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_SignFolding_04.obj"
+dest_files=["res://.godot/imported/SM_SignFolding_04.obj-d2f53d404c95bbea0f82e4ca4fcfebea.mesh", "res://.godot/imported/SM_SignFolding_04.obj-d2f53d404c95bbea0f82e4ca4fcfebea.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

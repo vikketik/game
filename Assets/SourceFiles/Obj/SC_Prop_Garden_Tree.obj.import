@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bombgmu1aqp8w"
+path="res://.godot/imported/SC_Prop_Garden_Tree.obj-3102ba6e618968ec2cbacbff4c434e33.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SC_Prop_Garden_Tree.obj-3102ba6e618968ec2cbacbff4c434e33.mesh"]
+
+source_file="res://Assets/SourceFiles/Obj/SC_Prop_Garden_Tree.obj"
+dest_files=["res://.godot/imported/SC_Prop_Garden_Tree.obj-3102ba6e618968ec2cbacbff4c434e33.mesh", "res://.godot/imported/SC_Prop_Garden_Tree.obj-3102ba6e618968ec2cbacbff4c434e33.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

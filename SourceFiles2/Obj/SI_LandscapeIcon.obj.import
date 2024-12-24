@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://r5rxru5vtpyn"
+path="res://.godot/imported/SI_LandscapeIcon.obj-682a0988037c7f4f29abf77deec58485.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_LandscapeIcon.obj-682a0988037c7f4f29abf77deec58485.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_LandscapeIcon.obj"
+dest_files=["res://.godot/imported/SI_LandscapeIcon.obj-682a0988037c7f4f29abf77deec58485.mesh", "res://.godot/imported/SI_LandscapeIcon.obj-682a0988037c7f4f29abf77deec58485.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

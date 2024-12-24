@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bbb0e1oxik66i"
+path="res://.godot/imported/SM_Sign_Hotel_01.obj-471a91e76c80d22f9674c0f5aa07c2ae.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Sign_Hotel_01.obj-471a91e76c80d22f9674c0f5aa07c2ae.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Sign_Hotel_01.obj"
+dest_files=["res://.godot/imported/SM_Sign_Hotel_01.obj-471a91e76c80d22f9674c0f5aa07c2ae.mesh", "res://.godot/imported/SM_Sign_Hotel_01.obj-471a91e76c80d22f9674c0f5aa07c2ae.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

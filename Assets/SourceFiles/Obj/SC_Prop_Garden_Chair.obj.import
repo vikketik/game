@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dtfrprothqarj"
+path="res://.godot/imported/SC_Prop_Garden_Chair.obj-2b92f58d83693ac70f7bcb1d39ee968f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SC_Prop_Garden_Chair.obj-2b92f58d83693ac70f7bcb1d39ee968f.mesh"]
+
+source_file="res://Assets/SourceFiles/Obj/SC_Prop_Garden_Chair.obj"
+dest_files=["res://.godot/imported/SC_Prop_Garden_Chair.obj-2b92f58d83693ac70f7bcb1d39ee968f.mesh", "res://.godot/imported/SC_Prop_Garden_Chair.obj-2b92f58d83693ac70f7bcb1d39ee968f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

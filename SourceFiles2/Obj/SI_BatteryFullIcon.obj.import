@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3og5m6qoo1h2"
+path="res://.godot/imported/SI_BatteryFullIcon.obj-7c23c9b8a8e1e2169895a14d876a05a3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_BatteryFullIcon.obj-7c23c9b8a8e1e2169895a14d876a05a3.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_BatteryFullIcon.obj"
+dest_files=["res://.godot/imported/SI_BatteryFullIcon.obj-7c23c9b8a8e1e2169895a14d876a05a3.mesh", "res://.godot/imported/SI_BatteryFullIcon.obj-7c23c9b8a8e1e2169895a14d876a05a3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

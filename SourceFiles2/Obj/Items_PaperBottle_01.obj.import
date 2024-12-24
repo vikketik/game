@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvcirqom5cumb"
+path="res://.godot/imported/Items_PaperBottle_01.obj-3f70e6116dd3f1b716a708c00025645b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_PaperBottle_01.obj-3f70e6116dd3f1b716a708c00025645b.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_PaperBottle_01.obj"
+dest_files=["res://.godot/imported/Items_PaperBottle_01.obj-3f70e6116dd3f1b716a708c00025645b.mesh", "res://.godot/imported/Items_PaperBottle_01.obj-3f70e6116dd3f1b716a708c00025645b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

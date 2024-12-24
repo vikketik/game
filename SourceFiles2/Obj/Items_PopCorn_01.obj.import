@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cl30foxgvhkcy"
+path="res://.godot/imported/Items_PopCorn_01.obj-805a01845dc9cca9f883c63d4c6f083d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_PopCorn_01.obj-805a01845dc9cca9f883c63d4c6f083d.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_PopCorn_01.obj"
+dest_files=["res://.godot/imported/Items_PopCorn_01.obj-805a01845dc9cca9f883c63d4c6f083d.mesh", "res://.godot/imported/Items_PopCorn_01.obj-805a01845dc9cca9f883c63d4c6f083d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

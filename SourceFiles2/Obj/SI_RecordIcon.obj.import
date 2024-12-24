@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bo3forsvgw6xl"
+path="res://.godot/imported/SI_RecordIcon.obj-eeb6a42c6c6bd991b2545e5c02b9b8f3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_RecordIcon.obj-eeb6a42c6c6bd991b2545e5c02b9b8f3.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_RecordIcon.obj"
+dest_files=["res://.godot/imported/SI_RecordIcon.obj-eeb6a42c6c6bd991b2545e5c02b9b8f3.mesh", "res://.godot/imported/SI_RecordIcon.obj-eeb6a42c6c6bd991b2545e5c02b9b8f3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

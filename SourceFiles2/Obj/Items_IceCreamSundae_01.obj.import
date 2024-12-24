@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://exbnqw6mxva1"
+path="res://.godot/imported/Items_IceCreamSundae_01.obj-c38cdd24b5b7477273aa286042a87b56.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_IceCreamSundae_01.obj-c38cdd24b5b7477273aa286042a87b56.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_IceCreamSundae_01.obj"
+dest_files=["res://.godot/imported/Items_IceCreamSundae_01.obj-c38cdd24b5b7477273aa286042a87b56.mesh", "res://.godot/imported/Items_IceCreamSundae_01.obj-c38cdd24b5b7477273aa286042a87b56.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

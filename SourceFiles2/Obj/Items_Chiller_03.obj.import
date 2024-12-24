@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0u778fvexr27"
+path="res://.godot/imported/Items_Chiller_03.obj-de4db2dea5217c0cba1ec479161ff2ad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_Chiller_03.obj-de4db2dea5217c0cba1ec479161ff2ad.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_Chiller_03.obj"
+dest_files=["res://.godot/imported/Items_Chiller_03.obj-de4db2dea5217c0cba1ec479161ff2ad.mesh", "res://.godot/imported/Items_Chiller_03.obj-de4db2dea5217c0cba1ec479161ff2ad.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

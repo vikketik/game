@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmgmiaykks3u7"
+path="res://.godot/imported/SI_SprayPaintIcon.obj-465dfbac95c0e5b86f45bf4bcca3f3d4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_SprayPaintIcon.obj-465dfbac95c0e5b86f45bf4bcca3f3d4.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_SprayPaintIcon.obj"
+dest_files=["res://.godot/imported/SI_SprayPaintIcon.obj-465dfbac95c0e5b86f45bf4bcca3f3d4.mesh", "res://.godot/imported/SI_SprayPaintIcon.obj-465dfbac95c0e5b86f45bf4bcca3f3d4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

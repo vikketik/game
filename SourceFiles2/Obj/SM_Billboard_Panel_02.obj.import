@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://l6lp2o4mltwm"
+path="res://.godot/imported/SM_Billboard_Panel_02.obj-179fd11038dd7c791b60b01b2867ce14.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Billboard_Panel_02.obj-179fd11038dd7c791b60b01b2867ce14.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Billboard_Panel_02.obj"
+dest_files=["res://.godot/imported/SM_Billboard_Panel_02.obj-179fd11038dd7c791b60b01b2867ce14.mesh", "res://.godot/imported/SM_Billboard_Panel_02.obj-179fd11038dd7c791b60b01b2867ce14.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

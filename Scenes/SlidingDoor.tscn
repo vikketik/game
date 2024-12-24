@@ -1,0 +1,222 @@
+[gd_scene load_steps=14 format=3 uid="uid://b6vnsb57h4dks"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_y7ktf"]
+albedo_color = Color(0.096746, 0, 0.987265, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_46pxa"]
+material = SubResource("StandardMaterial3D_y7ktf")
+size = Vector3(0.2, 2, 1)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_idehp"]
+size = Vector3(0.2, 2, 1)
+
+[sub_resource type="Animation" id="Animation_pexs1"]
+resource_name = "Door_close"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("MeshInstance3D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, -0.5), Vector3(0, 0, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("CollisionShape3D:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, -0.5), Vector3(0, 0, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("MeshInstance3D2:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 1.5), Vector3(0, 0, 1)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("CollisionShape3D2:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 1.5), Vector3(0, 0, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_lfm7x"]
+resource_name = "Door_open"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("MeshInstance3D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(-0.0333333, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0, 0, -0.5)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("CollisionShape3D:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(-0.0333333, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0, 0, -0.5)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("MeshInstance3D2:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(-0.0333333, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 1), Vector3(0, 0, 1.5)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("CollisionShape3D2:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(-0.0333333, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 1), Vector3(0, 0, 1.5)]
+}
+
+[sub_resource type="Animation" id="Animation_nvrlk"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("MeshInstance3D:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("CollisionShape3D:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("MeshInstance3D2:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 1)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("CollisionShape3D2:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 1)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_fo05k"]
+_data = {
+"Door_close": SubResource("Animation_pexs1"),
+"Door_open": SubResource("Animation_lfm7x"),
+"RESET": SubResource("Animation_nvrlk")
+}
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_45kuh"]
+animation = &"Door_close"
+
+[sub_resource type="AnimationNodeAnimation" id="AnimationNodeAnimation_delso"]
+animation = &"Door_open"
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_un2k4"]
+advance_mode = 2
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_v30ar"]
+switch_mode = 2
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_506ss"]
+switch_mode = 2
+
+[sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_pwnas"]
+states/Door_close/node = SubResource("AnimationNodeAnimation_45kuh")
+states/Door_close/position = Vector2(528, 183)
+states/Door_open/node = SubResource("AnimationNodeAnimation_delso")
+states/Door_open/position = Vector2(528, 36)
+states/Start/position = Vector2(336, 100)
+transitions = ["Start", "Door_close", SubResource("AnimationNodeStateMachineTransition_un2k4"), "Door_close", "Door_open", SubResource("AnimationNodeStateMachineTransition_v30ar"), "Door_open", "Door_close", SubResource("AnimationNodeStateMachineTransition_506ss")]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="SlidingDoor" type="StaticBody3D" parent="."]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="SlidingDoor"]
+mesh = SubResource("BoxMesh_46pxa")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="SlidingDoor"]
+shape = SubResource("BoxShape3D_idehp")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="SlidingDoor"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1)
+mesh = SubResource("BoxMesh_46pxa")
+skeleton = NodePath("../CollisionShape3D")
+
+[node name="CollisionShape3D2" type="CollisionShape3D" parent="SlidingDoor"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1)
+shape = SubResource("BoxShape3D_idehp")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="SlidingDoor"]
+libraries = {
+"": SubResource("AnimationLibrary_fo05k")
+}
+
+[node name="AnimationTree" type="AnimationTree" parent="SlidingDoor"]
+tree_root = SubResource("AnimationNodeStateMachine_pwnas")
+anim_player = NodePath("../AnimationPlayer")

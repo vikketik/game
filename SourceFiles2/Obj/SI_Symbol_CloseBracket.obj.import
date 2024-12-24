@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djm4g4rsarkn2"
+path="res://.godot/imported/SI_Symbol_CloseBracket.obj-b0a3d95959078b32cb3c5c41377a8aa2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_Symbol_CloseBracket.obj-b0a3d95959078b32cb3c5c41377a8aa2.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_Symbol_CloseBracket.obj"
+dest_files=["res://.godot/imported/SI_Symbol_CloseBracket.obj-b0a3d95959078b32cb3c5c41377a8aa2.mesh", "res://.godot/imported/SI_Symbol_CloseBracket.obj-b0a3d95959078b32cb3c5c41377a8aa2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

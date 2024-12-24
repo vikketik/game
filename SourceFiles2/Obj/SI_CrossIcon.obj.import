@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://m6kn5uja6qt2"
+path="res://.godot/imported/SI_CrossIcon.obj-9f4c41147ec85786d302a490c1e628fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_CrossIcon.obj-9f4c41147ec85786d302a490c1e628fb.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_CrossIcon.obj"
+dest_files=["res://.godot/imported/SI_CrossIcon.obj-9f4c41147ec85786d302a490c1e628fb.mesh", "res://.godot/imported/SI_CrossIcon.obj-9f4c41147ec85786d302a490c1e628fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

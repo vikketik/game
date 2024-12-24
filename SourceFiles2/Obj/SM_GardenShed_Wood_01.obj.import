@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2u0smqb0pfmm"
+path="res://.godot/imported/SM_GardenShed_Wood_01.obj-ada407f834d5dfc713b2455268288207.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_GardenShed_Wood_01.obj-ada407f834d5dfc713b2455268288207.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_GardenShed_Wood_01.obj"
+dest_files=["res://.godot/imported/SM_GardenShed_Wood_01.obj-ada407f834d5dfc713b2455268288207.mesh", "res://.godot/imported/SM_GardenShed_Wood_01.obj-ada407f834d5dfc713b2455268288207.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3cvjn2l76ajm"
+path="res://.godot/imported/Items_Ciggie_02.obj-20de9cc3ce3731acc291bfd5d7ab201a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_Ciggie_02.obj-20de9cc3ce3731acc291bfd5d7ab201a.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_Ciggie_02.obj"
+dest_files=["res://.godot/imported/Items_Ciggie_02.obj-20de9cc3ce3731acc291bfd5d7ab201a.mesh", "res://.godot/imported/Items_Ciggie_02.obj-20de9cc3ce3731acc291bfd5d7ab201a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

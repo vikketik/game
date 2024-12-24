@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2a8hqs523qfw"
+path="res://.godot/imported/SI_FireIcon.obj-03b14f80ef191e81403350eacc7256b1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_FireIcon.obj-03b14f80ef191e81403350eacc7256b1.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_FireIcon.obj"
+dest_files=["res://.godot/imported/SI_FireIcon.obj-03b14f80ef191e81403350eacc7256b1.mesh", "res://.godot/imported/SI_FireIcon.obj-03b14f80ef191e81403350eacc7256b1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cptwgonlyw68d"
+path="res://.godot/imported/Items_Cigar_04.obj-8b41d99ee03fc47fa8c989be753a7679.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_Cigar_04.obj-8b41d99ee03fc47fa8c989be753a7679.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_Cigar_04.obj"
+dest_files=["res://.godot/imported/Items_Cigar_04.obj-8b41d99ee03fc47fa8c989be753a7679.mesh", "res://.godot/imported/Items_Cigar_04.obj-8b41d99ee03fc47fa8c989be753a7679.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

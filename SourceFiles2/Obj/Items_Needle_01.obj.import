@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://yx4a15vbdbj8"
+path="res://.godot/imported/Items_Needle_01.obj-29d758d324a8e7065de3b393f7304ddc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_Needle_01.obj-29d758d324a8e7065de3b393f7304ddc.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_Needle_01.obj"
+dest_files=["res://.godot/imported/Items_Needle_01.obj-29d758d324a8e7065de3b393f7304ddc.mesh", "res://.godot/imported/Items_Needle_01.obj-29d758d324a8e7065de3b393f7304ddc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

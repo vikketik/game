@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://rw423kiqsd8m"
+path="res://.godot/imported/SM_VendingMachine_01.obj-7be92b49bf966954c8848cda5e50b798.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_VendingMachine_01.obj-7be92b49bf966954c8848cda5e50b798.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_VendingMachine_01.obj"
+dest_files=["res://.godot/imported/SM_VendingMachine_01.obj-7be92b49bf966954c8848cda5e50b798.mesh", "res://.godot/imported/SM_VendingMachine_01.obj-7be92b49bf966954c8848cda5e50b798.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

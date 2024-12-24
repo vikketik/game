@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyukhrukmqvkq"
+path="res://.godot/imported/Items_PlasticCoffeeCup_02.obj-e07ed29fe1bd26b9504f3d9262d8ff00.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Items_PlasticCoffeeCup_02.obj-e07ed29fe1bd26b9504f3d9262d8ff00.mesh"]
+
+source_file="res://SourceFiles2/Obj/Items_PlasticCoffeeCup_02.obj"
+dest_files=["res://.godot/imported/Items_PlasticCoffeeCup_02.obj-e07ed29fe1bd26b9504f3d9262d8ff00.mesh", "res://.godot/imported/Items_PlasticCoffeeCup_02.obj-e07ed29fe1bd26b9504f3d9262d8ff00.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

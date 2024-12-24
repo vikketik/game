@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cybcdsw8kndqp"
+path="res://.godot/imported/SC_Prop_Sign_Bank.obj-4a2e083c20afbff2bb0468e1813f430c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SC_Prop_Sign_Bank.obj-4a2e083c20afbff2bb0468e1813f430c.mesh"]
+
+source_file="res://Assets/SourceFiles/Obj/SC_Prop_Sign_Bank.obj"
+dest_files=["res://.godot/imported/SC_Prop_Sign_Bank.obj-4a2e083c20afbff2bb0468e1813f430c.mesh", "res://.godot/imported/SC_Prop_Sign_Bank.obj-4a2e083c20afbff2bb0468e1813f430c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

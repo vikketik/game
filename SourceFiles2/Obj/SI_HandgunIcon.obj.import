@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cg6q4qhur3pw8"
+path="res://.godot/imported/SI_HandgunIcon.obj-9820a362bb09e8b44c81f39735a7ab83.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_HandgunIcon.obj-9820a362bb09e8b44c81f39735a7ab83.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_HandgunIcon.obj"
+dest_files=["res://.godot/imported/SI_HandgunIcon.obj-9820a362bb09e8b44c81f39735a7ab83.mesh", "res://.godot/imported/SI_HandgunIcon.obj-9820a362bb09e8b44c81f39735a7ab83.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

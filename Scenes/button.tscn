@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=3 uid="uid://buuftn7i0cs2w"]
+
+[ext_resource type="Script" path="res://interact/button.gd" id="1_g5w6j"]
+[ext_resource type="PackedScene" uid="uid://rvl83g3207ea" path="res://Assets/Button.fbx" id="1_ifdmk"]
+[ext_resource type="AudioStream" uid="uid://d2d5iltts804r" path="res://Assets/explosion-91872.mp3" id="3_d635a"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_fv66r"]
+size = Vector3(2, 0.2, 2)
+
+[node name="Button" type="StaticBody3D"]
+script = ExtResource("1_g5w6j")
+
+[node name="Button" parent="." instance=ExtResource("1_ifdmk")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.98023e-08, 7.45058e-09, 0)
+shape = SubResource("BoxShape3D_fv66r")
+
+[node name="AudioStreamPlayer3D" type="AudioStreamPlayer3D" parent="."]
+stream = ExtResource("3_d635a")
+
+[connection signal="interacted" from="." to="." method="_on_interacted"]

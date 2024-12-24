@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyw3s55nv2v2w"
+path="res://.godot/imported/SM_Window_Roof_02.obj-90073a365b0e247d92e5b098e5662835.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SM_Window_Roof_02.obj-90073a365b0e247d92e5b098e5662835.mesh"]
+
+source_file="res://SourceFiles2/Obj/SM_Window_Roof_02.obj"
+dest_files=["res://.godot/imported/SM_Window_Roof_02.obj-90073a365b0e247d92e5b098e5662835.mesh", "res://.godot/imported/SM_Window_Roof_02.obj-90073a365b0e247d92e5b098e5662835.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

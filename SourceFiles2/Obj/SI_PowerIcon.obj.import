@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c3lr3b6vfm8y2"
+path="res://.godot/imported/SI_PowerIcon.obj-9f1b16deb9aa0876ab714d79569c69e2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SI_PowerIcon.obj-9f1b16deb9aa0876ab714d79569c69e2.mesh"]
+
+source_file="res://SourceFiles2/Obj/SI_PowerIcon.obj"
+dest_files=["res://.godot/imported/SI_PowerIcon.obj-9f1b16deb9aa0876ab714d79569c69e2.mesh", "res://.godot/imported/SI_PowerIcon.obj-9f1b16deb9aa0876ab714d79569c69e2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
