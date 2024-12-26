@@ -4,7 +4,7 @@ extends CharacterBody3D
 
 var current_speed = 5
 
-@export var walking_speed = 8.0
+@export var walking_speed = 5.0
 @export var running_speed = 20.0
 @export var crouching_speed = 3.0
 
